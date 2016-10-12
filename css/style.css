@@ -1,0 +1,26 @@
+html{
+  text-align: justify;
+  background-color: beige;
+}
+.work{
+  color: blue;
+  font-size: 120%;
+}
+.current{
+  color: red;
+  font-weight: bold;
+}
+.ref{
+  color: purple;
+  border: pink 1px solid;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+.num{
+  font-family: courier;
+  color: red;
+}
+.edu{
+  font-family: cursive;
+  color: grey;
+}
